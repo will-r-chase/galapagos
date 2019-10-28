@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "San Cristóbal Island (Chatham)",
+        "date": "September 15-23, 1835",
+        "notes": "After traveling the Western coast of South America, the HMS Beagle set out for the Galápagos Islands from Lima, Peru. They sighted Mount Pitt on September 15th and soon anchored near modern day Puerto Baquerizo Moreno on San Cristóbal Island. Darwin observed plant life, reptiles (including giant tortoises), and birds here, remarking how unafraid the animals remained around humans. His overall impression was one of mild disgust, describing the plant life as brown and dismal \"what we might imagine the cultivated parts of the Infernal regions to be\", and observing the \"most disgusting, clumsy Lizards\" describing them as \"imps of darkness\", well suited to the land they inhabited.",
+        "journals": "<i>Sept. 15th.</i> on the 15th she was employed in surveying the outer coast of Chatham Island, the S. Eastern one of the Archipelago.</br></br><i>Sept. 16th.</i> The next day we ran near Hood's Isd & there left the Whale boat. In the evening the Yawl was also sent away on a surveying cruize of some length. The weather now & during the passage has continued as on the coast of Peru, a steady, gentle breeze of wind & gloomy sky. We landed for an hour on the N.W. end of Chatham Isd. These islands at a distance have a sloping uniform outline, excepting where broken by sundry paps & hillocks; the whole black Lava, completely covered by small leafless brushwood & low trees. The fragments of Lava where most porous, are reddish like cinders; the stunted trees show little signs of life. The black rocks heated by the rays of the Vertical sun, like a stove, give to the air a close & sultry feeling. The plants also smell unpleasantly. The country was compared to what we might imagine the cultivated parts of the Infernal regions to be. </br></br>This day, we now being only 40 miles from the Equator, has been the first warm one; up to this time all on board have worn cloth clothese [sic], & although no one would complain of cold, still less would they of too much warmth. The case would be very different if we were cruizing on the Atlantic side of the Continent.</br></br><i>Sept. 17th.</i> The Beagle was moved into St Stephen's harbor. We found there an American Whaler & we previously had seen two at Hoods Island. The Bay swarmed with animals; Fish, Shark & Turtles were popping their heads up in all parts. Fishing lines were soon put overboard & great numbers of fine fish 2 & even 3 feet long were caught. This sport makes all hands very merry; loud laughter & the heavy flapping of the fish are heard on every side. After dinner a party went on shore to try to catch Tortoises, but were unsuccessful. These islands appear paradises for the whole family of Reptiles. Besides three kinds of Turtles, the Tortoise is so abundant that [a] single Ship's company here caught 500-800 in a short time. The black Lava rocks on the beach are frequented by large (2-3 ft.) most disgusting, clumsy Lizards. They are as black as the porous rocks over which they crawl & seek their prey from the Sea. Somebody calls them \"imps of darkness.\" They assuredly well become the land they inhabit. When on shore I proceeded to botanize & obtained 10 different flowers; but such insignificant, ugly little flowers, as would better become an Arctic than a Tropical country. The birds are Strangers to Man & think him as innocent as their countrymen the huge Tortoises. Little birds, within 3 or four feet, quietly hopped about the Bushes & were not frightened by stones thrown at them. Mr King killed one with his hat & I pushed off a branch with the end of my gun a large Hawk.</br></br><i>Sept. 18th.</i> Again we moved our Anchorage & again after dinner took a long walk. We ascended the broken remains of a low but broad crater. The Volcano had been sub-marine: the strata which dipped away on all sides were composed of hard Sandstones composed of Volcanic dust. A few leagues to the North a broken country was studded with small black cones; the ancient chimneys for the subterranean melted fluids. The hunting party brought back 15 Tortoises: most of them very heavy & large.</br></br><i>Sept. 19th & 20th.</i> During these two days surveyed the seaward coast of the Isd & returned to an anchor where we had found the Whaler. At one point there were little rills of water, & one small cascade. The valleys in the neighbourhead [sic] were coloured a somewhat brighter green. Upon first arriving I described the land as covered with leafless brushwood; & such certainly is the appearance. I believe, however, almost every plant or tree is now both in flower & leaf. But the most prevalent kinds are ornamented with but very few & these of a brown color.</br></br><i>Sept. 21st.</i> My servant & self were landed a few miles to the N.E. in order that I might examine the district mentioned above as resembling chimney[s]. The comparison would have been more exact if I had said the iron furnaces near Wolverhampton. From one point of view I counted 60 of these truncated hillocks, which are only from 50 to 100 ft. above the plain of Lava. The age of the various streams is distinctly marked by the presence & absence of Vegetation; in the latter & more modern nothing can be imagined more rough or horrid. Such a surface has been aptly compared to a sea petrified in its most boisterous moments. No sea, however, presents such irregular undulations, nor such deep & long chasms. The craters are all entirely inert; consisting indeed of nothing more than a ring of cinders. There are large circular pits, from 30 to 80 ft. deep, which might be mistaken for Craters, but are in reality formed by the subsidence of the roofs of great caverns, which probably were produced by a volume of gas at the time when the Lava was liquid. The scene was to me novel & full of interest; it is always delightful to behold anything which has been long familiar, but only by description. In my walk I met two very large Tortoises (circumference of shell about 7 ft.). One was eating a Cactus & then quietly walked away. The other gave a deep & loud hiss & then drew back his head. They were so heavy, I could scarcely lift them off the ground. Surrounded by the black Lava, the leafless shrubs & large Cacti, they appeared most old-fashioned antediluvian animals or rather inhabitants of some other planet. We slept on the sandbeach, & in the morning after having collected many new plants, birds & shells & insects, we returned in the evening on board. This day was glowing hot, & was the first when our closeness to the Equator was very sensible."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.268024,
+          -0.705886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Floreana Island (Charles)",
+        "date": "September 24 - 28, 1835",
+        "notes": "The crew embarked from San Cristóbal to visit Floreana, which at the time was an Ecuadorian penal colony run by Englishman Nicholas Lawson. The crew of the Beagle accompanied Lawson on a tour of the colony. Darwin collected several plant and animal specimens and learned that he could distinguish which island a tortoise came from by examining it's shell patterns. Darwin noted that the convicts on Floreana regularly ate tortoises and that visiting ships often took them by the hundreds. By 1846 the Floreana tortoise was extinct.",
+        "journals": "<i>Sept. 23rd & 24th.</i> Crossed over & came to an anchor at Charles Island. Here there is a settlement of only five to 6 years' standing. An Englishman, Mr Lawson, is now acting as Governor. By chance he came down to visit a Whaling Vessel & in the morning accompanied us to the Settlement. This is situated nearly in the centre of the Island, about 4 & ½ miles inland, & elevated perhaps 1000 ft. above the sea. The first part of the road passed through a thicket of nearly leafless underwood as in Chatham Island. The dry Volcanic soil affording a congenial habitation only to the Lizard tribe. The wood gradually becomes greener during the ascent. Passing round the side of the highest hill, the body is cooled by the fine Southerly trade wind & the eye refreshed by a plain green as England in the Spring time. Out of the wood extensive patches have been cleared, in which sweet Potatoes (convolvulus Batata) & Plantains grow with luxuriance. The houses are scattered over the cultivated ground & form what in Chili would be called a \"Pueblo\". Since leaving Brazil we have not seen so Tropical a Landspace, but there is a great deficiency in the absence of the lofty, various & all-beautiful trees of that country. It will not easily be imagined how pleasant the change was from Peru & Northern Chili, in walking in the pathways to find black mud and on the trees to see mosses, ferns & Lichens & parasitical plants adhæring. Owing to an unusual quantity of rain at this time of year, I suspect we have seen the Island at its full advantage. I suspect this the more from meeting with singularly few insects of any of the orders. If such luxuriance is constant this scarcity of its universal concomitants is very remarkable. The inhabitants are in number 200-300; nearly all are people of color & banished for Political crimes from the State of the Equator (Quito & Cuyaquil [sic]) to which this Archipelago belongs. It appears the people are far from contented; they complain, here as in Chiloe, of the deficiency of money: I presume there is some more essential want than that of mere Currency, namely want of sale of their produce. This of course will gradually be ameliorated; already on an average in the year 60-70 Whaling vessels call for provisions & refreshment. The main evil under which these islands suffer is the scarcity of water. In very few places streams reach the beach, so as to afford facilities for the watering of Shipping. Every where the porous nature of the Volcanic rocks has a tendency to absorb, without again throwing up, the little water which falls in the course of the year. At the Settlement there are several springs & small pools, three or four of which are said never to fail. Generally the islands in the Pacifick are subject to years of drought & subsequent scarcity; I should be afraid this group will not afford an exception. The inhabitants here lead a sort of Robinson Crusoe life; the houses are very simple, built of poles & thatched with grass. Part of their time is employed in hunting the wild pigs & goats with which the woods abound; from the climate, agriculture requires but a small portion. The main article, however, of animal food is the Terrapin or Tortoise; such numbers yet remain, that is is calculated two days' hunting will find food for the other five in the week. Of course the numbers have been much reduced; not many years since, the Ship's company of a Frigate brought down to the Beach in one day more than 200. Where the settlement now is, around the Springs, they formerly swarmed. Mr Lawson thinks there is yet left sufficient for 20 years: he has however sent a party to Jame's [sic] Island to salt (there is a Salt mine there) the meat. Some of the animals are there so very large, that upwards of 200 lbs. of meat have been procured from one. Mr Lawson recollects having seen a Terrapin, which 6 men could scarcely lift & two could not turn over on its back. These immense creatures must be very old; in the year 1830 one was caught (which required 6 men to lift it into the boat) which had various dates carved on its shells; one was 1786. The only reason why it was not at that time carried away must have been that it was too big for two men to manage. The Whalers always send away their men in pairs to hunt.</br></br><i>Sept. 26th & 27th.</i> I industriously collected all the animals, plants, insects & reptiles from this Island. It will be very interesting to find from future comparison to what district or \"centre of creation\" the organized beings of this archipelago must be attached.</br></br>I ascended the highest hill in the Isd, 2000 feet; it was covered in its upper part with coarse grass & shrubs. The remains of an old Crater were very evident; small as the whole island is, I counted 39 conical hills, in the summit of all of which there was a more or less perfect circular depression. It is long since the Lava streams which form the lower parts of the Island flowed from any of these Craters. Hence we have a smoother surface, a more abundant soil, & more fertile vegetation. It is probable that much of the Lava is of subaqueous origin.</br></br><i>Sept. 28th.</i> Steered towards the Southern end of Albemarle Isd, which was surveyed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.428192,
+          -1.225145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Isabela Island (Albemarle)",
+        "date": "September 28 - October 4, 1835",
+        "notes": "On his first trip to Isabela, Darwin marveled at the imposing volcanic rock formations and remarked on the geology of the island. He was also fascinated by the number of marine iguanas that forage underwater. His first thought was that the iguanas fed on fish or small animals, but a later dissection would reveal that they feed off algae.",
+        "journals": "<i>Sept. 29th.</i> Anchored at Noon in a small cove, beneath the highest & boldest land which we have yet seen. The Volcanic origin of all is but too plainly evident. Passed a point studded over with truncated cones or Spiracles as some Author calls them; the Craters were very perfect & generally red-coloured within. The whole had even a more work-shop appearance than that described at Chatham Island. A calm prevented us anchoring for the night.</br></br><i>Sept. 30th.</i> The next day, a light breeze carried us over the calm sea, which lies between Narborough & Albemarle Isd. In the latter, high up, we saw a small jet of steam issuing from a Crater. Narborough Isd presents a more rough & horrid aspect than any other; the Lavas are generally naked as when first poured forth. When H.M.S. Blonde was here there was an active Volcano in that Island. After sun-set, came to an anchor in Banks cove in Albemarle Isd & which cove subsequently turned out to be the Crater of an old Volcano.</br></br><i>Oct. 1st.</i> Albemarle Island is as it were the mainland of the Archipelago; it is about 75 miles long & several broad; is composed of 6 or 7 great Volcanic Mounds from 2 to 3000 ft. high, joined by low land formed of Lava & other Volcanic substances. Since leaving the last Island, owing to the small quantity of water on board, only half allowance of water has been served out (i.e. ½ a Gallon for cooking & all purposes). This under the line with a Vertical sun is a sad drawback to the few comforts which a Ship possesses. From different accounts, we had hoped to have found water here. To our disappointment the little pits in the Sandstone contained scarcely a Gallon & that not good. It was however sufficient to draw together all the little birds in the country; Doves & Finches swarmed round its margin. I was reminded of the manner in which I saw at Charles Isd a boy procuring dinner for his family. Sitting by the side of a Well, with a long stick in his hand, as the doves came to drink he killed as many as he wanted & in half an hour collected them together & carried them to the house. To the South of the Cove I found a most beautiful Crater, elliptic in form, less than a mile in its longer axis & about 500 feet deep. Its bottom was occupied by a lake, out of which a tiny Crater formed an Island. The day was overpoweringly hot; & the lake looked blue & clear. I hurried down the cindery side, choked with dust, to my disgust on tasting the water found it Salt as brine. This crater & some other neighbouring ones have only poured forth mud or Sandstone containing fragments of Volcanic rocks; but from the mountain behind, great bare streams have flowed, sometimes from the summit, or from small Craters on the side, expanding in their descent, have at the base formed plains of Lava. The little of the country I have yet seen in this vicinity is more arid & sterile than in the other Islands. We here have another large Reptile in great numbers; it is a great Lizard, from 10-15 lb. in weight & 2-4 feet in length; is in structure closely allied to those \"imps of darkness\" which frequent the sea-shore. This one inhabits burrows to which it hurries when frightened, with quick & clumsy gait. They have a ridge & spines along the back; are colored an orange yellow, with the hinder part of back brick red. They are hideous animals; but are considered good food: this day forty were collected.</br></br><i>Oct. 2nd.</i> Sailed from this Crater Harbor: but were becalmed during the greater part of the day in the Straits which separates the two Islands.</br></br><i>Oct. 3rd.</i> We stood round the North end of Albemarle Island. The whole of this has the same sterile dry appearance; is studded with the small Craters, which are appendages to the great Volcanic mounds, & from which in very many places the black Lava has flowed; the configuration of the streams being like that of so much mud. I should think it would be difficult to find in the inter-tropical latitudes a piece of land 75 miles long, so entirely useless to man or the larger animals. From the evening of this day to the 8th was most unpleasantly passed in struggling to get about 50 miles to Windward against a strong current."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.968813,
+          -0.959467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Santiago (James) Island",
+        "date": "October 4, 1835",
+        "notes": "The Beagle traveled from Isabela to Northwest Santiago before setting sail for the Northern islands.",
+        "journals": "Darwin made no entries from October 4th - 7th, perhaps due to seasickness."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.834586,
+          -0.194739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Marchena (Bindloe) Island",
+        "date": "October 5, 1835",
+        "notes": "The Beagle was battered by strong winds and seas, and never anchored at Marchena, which to this day is uninabited and rarely visited, even by National Park officers or scientists.",
+        "journals": "Darwin made no entries from October 4th - 7th, perhaps due to seasickness."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47091007232666,
+          0.27675997873593927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Genovesa (Tower) Island",
+        "date": "October 6, 1835",
+        "notes": "The Beagle continued to battle strong seas, surveying Genovesa but never anchoring or exploring the island, now known as a haven for nesting birds.",
+        "journals": "Darwin made no entries from October 4th - 7th, perhaps due to seasickness."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.951968,
+          0.316708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Pinta (Abingdon) Island",
+        "date": "October 7, 1835",
+        "notes": "The Beagle continually tried to reach Pinta, but was repeatedly foiled by strong currents and winds. They eventually gave up and headed for refuge at Santiago.",
+        "journals": "Darwin made no entries from October 4th - 7th, perhaps due to seasickness."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.737902,
+          0.545996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Santiago (James) Island",
+        "date": "October 8 – October 17, 1835",
+        "notes": "The Beagle was running low on fresh water and found none upon arrival at Santiago, so they headed to San Cristóbal for resupply, but left Darwin, the ship's physician Benjamin Bynoe, and their servants on Santiago with a tent and provisions to spend the week exploring and collecting samples. During this time they collected numerous specimens, but remarked at how few insects there were. Around this time Darwin realized that the different islands hosted similar but distinct species.",
+        "journals": "<i>Oct. 8th.</i> At last we reached Jame's [sic] Island, the rendezvous of Mr Sulivan. Myself, Mr. Bynoe & three men were landed with provisions, there to wait till the ship returned from watering at Chatham Island. We found on the Isd a party of men sent by Mr Lawson from Charles Isd to salt fish & Tortoise meat (& procure oil from the latter). Near to our Bivouacing place, there was a miserable little Spring of Water. We employed these men to bring us sufficient for our daily consumption. We pitched out tents in a small valley a little way from the Beach. The little Bay was formed by two old Craters: in this island, as in all the others, the mouths from which the Lavas have flowed are thickly studded over the country.</br></br><i>Oct. 9th & 10th.</i> Taking with us a guide we proceeded into the interior & higher parts of the Island, where there was a small party employed in hunting the Tortoise. Our walk was a long one. At about six miles distance & an elevation of perhaps 2000 ft. the country begins to show a green color. Here there are a couple of hovels where the men reside. Lower down the land is like that of Chatham Isd,—very dry & the trees nearly leafless. I noticed, however, that those of the same species attained a much greater size here than in any other part. The vegetation here deserved the title of a Wood: the trees were, however, far from tall & their branches low & crooked.† About two miles from the Hovels & probably at an additional 1000 ft. elevation, the Springs are situated. They are very trifling ones, but the water good & deliciously cold. They afford the only watering places as yet discovered in the interior. During the greater part of each day clouds hang over this highest land: the vapour condensed by the trees drips down like rain. Hence we have a brightly green & damp vegetation & muddy soil. The contrast to the sight & sensation of the body is very delightful after the glaring dry country beneath. The case is exactly similar to that described in Charles Isd. So great a change, with so small a one of elevation, cannot fail to be striking. On the 12th [sic, 10th] I paid a second visit to the houses, bringing with me a blanket bag to sleep in. I thus enjoyed two days collecting in the fertile region. Here were many plants, especially Ferns; the tree Fern however is not present.‡ The tropical character of the Vegetation is stamped by the commonest tree being covered with compound flowers of the order of Syngynesia. The tortoise when it can procure it, drinks great quantities of water. Hence these animals swarm in the neighbourhead [sic] of the Springs. The average size of the full-grown ones is nearly a yard long in its back shell: they are so strong as easily to carry me, & too heavy to lift from the ground. In the pathway many are travelling to the water & others returning, having drunk their fill. The effect is very comical in seeing these huge creatures with outstretched neck so deliberately pacing onwards. I think they march at the rate of 360 yards in an hour; perhaps four miles in the 24. When they arrive at the Spring, they bury their heads above the eyes in the muddy water & greedily suck in great mouthfuls, quite regardless of lookers on. Wherever there is water, broard [sic] & well beaten roads lead from all sides to it, these extend for distances of miles. It is by this means that these watering places have been discovered by the fishermen. In the low dry region there are but few Tortoises: they are replaced by infinite numbers of the large yellow herbivorous Lizard, mentioned at Albemarle Isd. The burrows of this animal are so very numerous that we had difficulty in finding a spot to pitch the tents. These lizards live entirely on vegetable productions; berries, leaves, for which latter they frequently crawl up the trees, especially a Mimosa; never drinking water, they like much the succulent Cactus, & for a piece of it they will, like dogs, struggle [and] seize it from another. Their congeners the \"imps of darkness\" in like manner live entirely on sea weed. I suspect such habits are nearly unique in the Saurian race.</br></br>† I saw some having circumference of 8 feet, & several of 6 feet. [C.D.]</br>‡ Cactus—Not any Palm. [C.D.]</br></br>In all these islands the dry parts reminded me of Fernando Noronha; perhaps the affinity is only in the similar circumstances of an arid Volcanic soil, a flowering leafless Vegetation in an Intertropical region, but without the beauty which generally accompanies such a positiion. During our residence of two days at the Hovels, we lived on the meat of the Tortoise fried in the transparent Oil, which is procured from the fat. The Breast-plate with the meat attached to it, is roasted as the Gauchos do the \"Carne con cuero\". It is then very good. Young Tortoises make capital soup; otherwise the meat is but—to my taste—indifferent food.</br></br><i>Oct. 11th.</i> The Mayór-domo took us in his boat to the Salina, which is situated about 6 miles down the coast. We crossed a bare & apparently recent stream of Lava which had flowed round an ancient but very perfect Crater. At the bottom of this Crater is a Lake, which is only 3 or 4 inches deep & lies on layers of pure & beautifully Crystallized Salt. The Lake is quite circular & fringed with bright green succulent plants; the sides of [the] Crater are steep & wooded, so that the whole has rather a pretty appearance. A few years since in this quiet spot the crew of a Sealing vessel murdered their Captain. We saw the skull lying in the bushes. In rocky parts there were great numbers of a peculiar Cactus, whose large oval leaves connected together, formed branches rising from a cylindrical trunk. In places also a Mimosa was common; the shade from its foliage was very refreshing, after being exposed in the open wood to the burning Sun.</br></br><i>Oct. 12th - 16th [sic,15th?].</i> We all were busily employed during these days in collecting all sorts of Specimens. The little well from which our water was procured was very close to the Beach: a long Swell from the Northward having set in, the surf broke over & spoiled the fresh water. We should have been distressed if an American Whaler had not very kindly given us three casks of water (& made us a present of a bucket on Onions). Several times during the Voyage Americans have showed themselves at least as obliging, if not more so, than any of our Countrymen would have been. Their liberality moreover has always been offered in the most hearty manner. If their prejudices against the English are as strong as ours against the Americans, they forget & smother them in an admirable manner. </br></br><i>Oct. 16th.</i> The weather during nearly all the time has been cloudless & the sun very powerful; if by chance the trade wind fails for an hour the heat is very oppressive. During the two last days, the Thermometer within the Tents has stood for some hours at 93°. In the open air, in the wind & sun, only [at] 85°. The sand was intensely hot, the Thermometer placed in a brown kind immediately rose to 137°; & how much higher it would have done I do not know: for it was not graduated above this. The black sand felt far hotter, so that in thick boots it was very disagreeable to pass over it.</br></br><i>Oct. 17th.</i> In the afternoon the Beagle sent in her boats to take us on board."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.566978,
+          -0.282629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Isabela (Albemarle) Island",
+        "date": "October 17 – October 19, 1835",
+        "notes": "After retrieving Darwin's party on Santiago, the Beagle set off to the Northeastern coast of Isabela before returning to Pinta to pick up another party that had been surveying there.",
+        "journals": "17th. In the afternoon the Beagle sent in her boats to take us on board.</br></br><i>Oct. 18th.</i> Finished the survey of Albemarle Isd.; the East side of the Island is nearly black with recent uncovered Lavas. The main hills must have immense Cauldron like Craters, their height is considerable—above 4000 feet: yet from the outline being one uniform curve, & the breadth of the mountain great, they do not appear lofty.</br></br><i>Oct. 19th.</i> During the night proceeded to Abingdon Isd; picked up Mr Chaffers in the Yawl in the morning & then steered for two small Isds which lie 100 miles to the North of the rest of the Group."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.198557,
+          -0.020841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Wolf (Wenham) Island",
+        "date": "October 20, 1835",
+        "notes": "After retrieving the last of their crew from Pinta, the Beagle set sail for the two small islands Northwest of Isabela. They surveyed Wolf but never set foot on the island.",
+        "journals": "<i>Oct. 20th.</i> After having surveyed these the Ship's head was put towards Otaheite & we commenced our long passage of 3,200 miles."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.818223,
+          1.380576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Darwin (Culpepper) Island",
+        "date": "October 20, 1835",
+        "notes": "At the time this tiny island was named Culpepper, but later it would be renamed in honor of Darwin. The Beagle surveyed the island, but never anchored or set explored. This was their last stop in the Galápagos before continuing on to Tahiti.",
+        "journals": "<i>Oct. 20th.</i> After having surveyed these the Ship's head was put towards Otaheite & we commenced our long passage of 3,200 miles."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.003612,
+          1.675561
+        ]
+      }
+    }]}

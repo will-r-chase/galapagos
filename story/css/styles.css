@@ -1,0 +1,140 @@
+#map {
+	position: relative;
+	height: inherit;
+	width: inherit;
+}
+
+.mapboxgl-popup-content {
+	background-color: #EFEAE4;
+	max-width: 500px;
+	max-height: 400px;
+	overflow-y: auto;
+	font-family: 'Alegreya', serif;
+	font-size: 16px;
+	color: #402610;
+	padding: 1.4rem;
+}
+
+.mapboxgl-popup-content-wrapper {
+	padding: 1%;
+}
+h3 {
+	margin: 0px;
+	padding: 0px;
+	color: #422913;
+	font-family: 'Alegreya SC', serif;
+}
+h4 {
+	margin: 0px;
+	padding: 0px;
+	color: #422913;
+	font-family: 'Alegreya SC', serif;
+}
+
+.wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-family: 'Alegreya SC', serif;
+  font-size: 1.2rem;
+  text-align: center;
+
+  padding: 1rem;
+
+  color: #422913;
+  background: #A79A8D;
+
+  cursor: pointer !important;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #A79A8D;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 10000px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: #EFEAE4;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+  color: #402610;
+}
+
+#intro {
+  height: 800px;
+  position: relative;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: #1e1e1e;
+  background: #fafafa;
+  opacity: 1;
+	padding-left: 25vw;
+  padding-right: 25vw;
+}
+
+#footer {
+  font-family: 'Alegreya', serif;
+  font-size: 20px;
+  height: 800px;
+  position: relative;
+  padding-top: 1%;
+  padding-left: 5%;
+  padding-right: 5% padding-bottom: 1%;
+  background: #fafafa;
+  opacity: 1;
+}
+
+#outro {
+  box-sizing: border-box;
+  padding-left: 25vw;
+  padding-right: 25vw;
+}
+
+.main {
+	position: relative;
+	height: 800px;
+	width: 70%;
+	left: 30%;
+}
